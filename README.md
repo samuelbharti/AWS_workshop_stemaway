@@ -1,5 +1,5 @@
 # AWS Deployment of R Shiny Bioinformatics App 
-> An example of sMAP: Standard Microarray Analysis Pipeline 
+> An example of [sMAP: Standard Microarray Analysis Pipeline](https://github.com/BI-STEM-Away/sMAP).
 
 ### Launching an EC2 Instance from your AWS Management Console dashboard
 
