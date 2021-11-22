@@ -3,7 +3,7 @@
 
 ### Launching an EC2 Instance from your AWS Management Console dashboard
 
-A snapshot demo of launching an AWS EC2 Instance is described [here](AWS_EC2_launch_and_connect.pptx).
+A snapshot demo of launching an AWS EC2 Instance is described [here](AWS_EC2_launch_and_connect.pdf).
 
 
 
