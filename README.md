@@ -45,4 +45,4 @@ sudo docker run --rm -d -p 80:80 samuelbharti/smap:latest
 
 ### Post-deployment: Demo of sMAP
 
-A snapshot demo of sMAP analysis is described [here](sMAP_demo.pptx).
+A snapshot demo of sMAP analysis is described [here](sMAP_demo.pdf).
