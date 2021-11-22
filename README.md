@@ -1,4 +1,4 @@
-# AWS Deployment of R Shiny Bioinformatics App hosted by [STEM-AWAY](https://stemaway.com/)
+# AWS Deployment of R Shiny Bioinformatics App 
 > An example of [sMAP: Standard Microarray Analysis Pipeline](https://github.com/BI-STEM-Away/sMAP).
 
 ### Launching an EC2 Instance from your AWS Management Console dashboard
@@ -46,3 +46,6 @@ sudo docker run --rm -d -p 80:80 samuelbharti/smap:latest
 ### Post-deployment: Demo of sMAP
 
 A snapshot demo of sMAP analysis is described [here](sMAP_demo.pdf).
+
+
+> Workshop Hosted by _[STEM-AWAY](https://stemaway.com/)_
