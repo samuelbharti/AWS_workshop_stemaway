@@ -3,7 +3,7 @@
 
 ### Launching an EC2 Instance from your AWS Management Console dashboard
 
-A snapshot demo of launching an AWS EC2 Instance is described [here](AWS_EC2_launch_and_connect).
+A snapshot demo of launching an AWS EC2 Instance is described [here](AWS_EC2_launch_and_connect.pptx).
 
 
 
@@ -45,7 +45,4 @@ sudo docker run --rm -d -p 80:80 samuelbharti/smap:latest
 
 ### Post-deployment: Demo of sMAP
 
-A snapshot demo of sMAP analysis is described [here](sMAP_demo).
-
-https://docs.google.com/viewer?url=https://github.com/samuelbharti/AWS_workshop_stemaway/sMAP_demo.pptx
-
+A snapshot demo of sMAP analysis is described [here](sMAP_demo.pptx).
